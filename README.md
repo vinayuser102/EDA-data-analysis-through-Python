@@ -1,1 +1,1 @@
-# eda data project
+# EDA data analysis through python
